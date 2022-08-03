@@ -18,17 +18,17 @@ I'm creating this because I have so many resources in different places, and most
 ❤️ = apps that I like. 
 
 ### Overview
-- [Blogs](https://github.com/carlopezzuto/Sourcing-Tools/edit/main/README.md#-blogs)
-- [Facebook Groups](https://github.com/Sjamilla/awesome-recruitment#-facebook-groups)![flag-italy_1f1ee-1f1f9](https://user-images.githubusercontent.com/45166937/182673498-942c00d0-51ab-4bca-8502-4d73ecc093d2.png)
-- [Audio](https://github.com/Sjamilla/awesome-recruitment#-audio)
-- [Video](https://github.com/Sjamilla/awesome-recruitment#-video)
-- [Books](https://github.com/Sjamilla/awesome-recruitment#-books)
-- [Lists](https://www.sheet2site.com/api/?key=14QxepwUDdmao57_gFA2Org4zr34Pl0GvKIs8TDBRjbA)
-- [Extensions & Tools General](https://github.com/Sjamilla/awesome-recruitment#%EF%B8%8F-tools-chrome-extensions---non-recruitment)
-- [Extensions & Tools Recruitment](https://github.com/Sjamilla/awesome-recruitment#%EF%B8%8F-recruitment-tools-extensions--websites)
+- [Blogs](https://github.com/carlopezzuto/Sourcing-Tools/blob/main/README.md#-blogs)
+- [Facebook Groups](https://github.com/carlopezzuto/Sourcing-Tools#-facebook-groups)
+- [Video](https://github.com/carlopezzuto/Sourcing-Tools#-video)
+- [Books](https://github.com/carlopezzuto/Sourcing-Tools#-books)
+- [Lists](https://github.com/carlopezzuto/Sourcing-Tools#%EF%B8%8F-cool-lists-created-by-cool-people)
+- [Extensions & Tools General](https://github.com/carlopezzuto/Sourcing-Tools#%EF%B8%8F-tools-not-recruitment-specific)
+- [Extensions & Tools Recruitment](https://github.com/carlopezzuto/Sourcing-Tools#%EF%B8%8F-recruitment-tools-extensions--websites)
 
-      
-## 📓 Blogs
+
+
+## 📝 Blogs
 - [SourceCon](https://www.sourcecon.com/)
 - [RecruitingDaily](https://recruitingdaily.com/)
 - [SocialTalent Blog](https://www.socialtalent.com/blog)
@@ -37,7 +37,7 @@ I'm creating this because I have so many resources in different places, and most
 - [Tris Revill](https://trisrevill.com/)
 - [Recruiting Brainfood](http://www.recruitingbrainfood.com/) - Weekly newsletter by Hung Lee. 
 - [Balazs Paroczay](https://thebalazs.com/)
-- [BooleanStrings](http://booleanstrings.com/)
+- [BooleanStrings by Irina Shamaeva](http://booleanstrings.com/)
 - [Boolean Black Belt-Sourcing/Recruiting](http://booleanblackbelt.com/)
 - [Recruiting Tools](https://recruitingtools.com/)
 - [Tom Ordonez](https://www.tomordonez.com/)
@@ -46,19 +46,20 @@ I'm creating this because I have so many resources in different places, and most
 - [GlossaryTech](https://blog.glossarytech.com/)
 - [WizardSourcer](https://wizardsourcer.com/blog)
 
+
+
 ## 💬 Facebook Groups
 - [SourceCon](https://www.facebook.com/groups/151466298380729/)
 - [Sourcers Who Code](https://www.facebook.com/groups/SourcersWhoCode/)
 - [Growth Hacking Recruiters](https://www.facebook.com/groups/GrowthHackingRecruiters/about/)
 - [Secret Sourcing Group](https://www.facebook.com/groups/secret.sourcing/)
 - [Recruiters Online](https://www.facebook.com/groups/recruitersonline/)
-- [Poland Sourcing Community](https://www.facebook.com/groups/polandsourcingcommunity/)
+- [SOSU (Sourcing Summit)](https://www.facebook.com/groups/213517665463174/)
+- [The Sourcing Method](https://www.facebook.com/groups/sourcingmethod/)
+- [Evry1 - Talent Acquisition Professionals & More](https://www.facebook.com/groups/evry1community/)
+- [TALENT SOURCING HACKS](https://www.facebook.com/groups/349531275953891)
+- [Talent Intelligence Collective](https://www.facebook.com/groups/talentintelligencecollective)
 
-## 🎧 Audio
-- [Talk Talent to Me](http://www.talktalenttome.com/)
-- [AirSource Show](https://soundcloud.com/airsourceshow)
-- [Hiring On All Cylinders](http://www.hiringonallcylinders.com/)
-- [The Chad & Cheese Podcast](https://www.chadcheese.com/)
 
 
 ## 📺 Video
@@ -73,92 +74,64 @@ I'm creating this because I have so many resources in different places, and most
 - [RecruiterZone](https://www.crowdcast.io/recruiterzone)
 - [Jim Stroud](https://www.youtube.com/user/jimstroud/videos)
 - [PairedSourcing Twitch Channel](https://www.twitch.tv/pairedsourcing)
+- [Recruting Daily](https://recruitingdaily.com/videos/)
+
+
 
 ## 📖 Books
 - [Full Stack Recruiter - Jan Tegze](https://www.amazon.com/Full-Stack-Recruiter-Modern-Recruiters/dp/1976130735)
-- [Full Stack Recruiter: New Secrets Revealed - Jan Tegze](https://www.amazon.com/Full-Stack-Recruiter-Secrets-Revealed/dp/8027048184/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1541714235&sr=8-2)
+- [Full Stack Recruiter: New Secrets Revealed - Jan Tegze](https://www.amazon.com/Full-Stack-Recruiter-Secrets-Revealed/dp/8027048184)
 - [300 Best Boolean Strings - Irina Shamaeva](https://booleanbook.com/)
 - [Sourcing Hacks - Irina Shamaeva & David Galley](https://sourcingcertification.com/sourcinghacksbook/) 
 - [Social Engineering: The Art of Human Hacking](https://www.amazon.com/Social-Engineering-Art-Human-Hacking/dp/0470639539)
 - [The Book of Recruiting; Da Costa Style - Dean Da Costa & Derek Zeller](https://www.amazon.com/Book-Recruiting-Costa-Style/dp/1717803245/ref=sr_1_1?s=books&ie=UTF8&qid=1533303148&sr=1-1)
-- [The Robot-Proof Recruiter: A Survival Guide for Recruitment and Sourcing Professionals - Katrina Collier](https://www.amazon.com/Robot-Proof-Recruiter-Survival-Recruitment-Professionals-ebook-dp-B07VZVYXSN/dp/B07VZVYXSN/ref=mt_kindle?_encoding=UTF8&me=&qid=)
+- [The Robot-Proof Recruiter: A Survival Guide for Recruitment and Sourcing Professionals - Katrina Collier 2nd Ed.](https://www.amazon.it/dp/1398606855)
 - [The Joy of Google Search - Daniel M. Russel](https://www.amazon.com/Joy-Search-Google-Insiders-Beyond/dp/0262042878)
 - [The Holloway Guide to Technical Recruiting and Hiring](https://www.holloway.com/g/technical-recruiting-hiring/about)
 - [Full Stack Recruiter: The Ultimate Edition (2020) - Jan Tegze](https://www.fullstackrecruiter.net/)
+
+
 
 ## ❤️ Cool lists created by cool people
 - [Martin Freeman's Sourcing Toolkit ](https://www.sheet2site.com/api/?key=14QxepwUDdmao57_gFA2Org4zr34Pl0GvKIs8TDBRjbA)
 - [Dean DaCosta Tools List](http://thesearchauthority.weebly.com/tools.html)
 - [RecruiterHunt](https://recruiterhunt.com/)
-- [Bellingcat's Digital Toolkit](https://docs.google.com/document/d/1BfLPJpRtyq4RFtHJoNpvWQjmGnyVkfE2HYoICKOGguA/edit) 
-- [Recruitment Blogs 2018](https://ohsusannamarie.com/2018/07/08/recommended-reading-the-best-recruitment-blogs-of-2018/) -  By Susanna Frazier. 
-- [OSINT Stash](https://osint.best/) - By Denis Dinkevich 🔎.
-- [Big List of Places to Post Jobs (Global)](https://www.recruitingbrainfood.com/big-list-of-places-to-post-jobs-globally/) - By Hung Lee. 
-- [Big list of Recruitment events 2019](https://www.recruitingbrainfood.com/list-of-events-2019/) - By Hung Lee. 
-- [Big list of Recruiting / HR podcasts](https://www.recruitingbrainfood.com/big-list-of-podcasts/) - By Hung Lee. 
+- [Bellingcat's Digital Toolkit](bit.ly/bcattools)
+- [Sharing is Caring](https://ohsusannamarie.com/sharing-is-caring/) -  By Susanna Frazier. 
 - [Big list of Online Recruiting Communities](https://www.recruitingbrainfood.com/big-list-of-online-recruiter-communities) - By Hung Lee. 
 - [SSaR](https://start.me/p/GE7Ebm/ssar) - Huge Tools list by Dean Da Costa.
 - [CSE Utopia](https://start.me/p/EL84Km/cse-utopia) - Amazing list of public CSEs by Dean Da Costa.
+- [List with Slack communities (tech)](https://hundred5.com/blog/sourcing-from-slack)
 
 ## 🛠️ Tools (Not recruitment specific)
 
 
 #### 👩‍💻 Dev Tools  
 - [WhatRuns](https://chrome.google.com/webstore/detail/cmkdbmfndkfgebldhnkbfhlneefdaaip) - View what runs a website.
-- [JSONView](https://chrome.google.com/webstore/detail/chklaanhfefbnpoihckbnefhakgolnmc) 
-- [Shodan](https://chrome.google.com/webstore/detail/shodan/jjalcfnidlmpjhdfepjhjbhnhkbgleap) - Search engine for Internet-connected devices.
-- [CSS & XPath checker](https://chrome.google.com/webstore/detail/css-and-xpath-checker/aoinfihhckpkkcpholfhmkeplbhddipe?utm_source=chrome-app-launcher-info-dialog)
-- [Json Pretty Print](http://jsonprettyprint.com/) 
-- [Json2XLS](http://www.json-xls.com/json2xls)
 - [JSON to CSV](https://konklone.io/json/)
 - [Atom](https://atom.io/) - Text & code editor. 
-- [Sublime](https://www.sublimetext.com) - Text & code editor. 
-- [Online Regex Tester](https://regex101.com/) 
-- [Versionista ](https://versionista.com/)- Track changes on a webpage.
 - [User-Agent Switcher for Chrome](https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg)
--  [Easy URL Params
-](https://chrome.google.com/webstore/detail/easy-url-params/jhhjlajfdkofbnhbcjcddngfehfihfln)
-- [Restlet Client - REST API Testing](https://chrome.google.com/webstore/detail/restlet-client-rest-api-t/aejoelaoggembcahagimdiliamlcdmfm?hl=en)
-- [ModHeader](https://chrome.google.com/webstore/detail/modheader/idgpnmonknjnojddfkpgkljpfnnfcklj) 
-- [List with Public API's](https://public-apis.xyz)
+
+
 
 #### ⌛ Productivity
 - [Share Extensions](https://chrome.google.com/webstore/detail/chdafcbnfkfenoeejpaeenpdamhmalhe) - Get a list of all your extensions and share them.
-- [Forest: stay focused, be present](https://chrome.google.com/webstore/detail/kjacjjdnoddnpbbcjilcajfhhbdhkpgk)
-- [Extensity](https://chrome.google.com/webstore/detail/extensity/jjmflmamggggndanpgfnpelongoepncg) - ❤️ Quickly enable/disable Google Chrome extensions.
+- [Extensity](https://chrome.google.com/webstore/detail/extensity/jjmflmamggggndanpgfnpelongoepncg) -  Quickly enable/disable Google Chrome extensions.
 - [OneTab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall) - Save up to 95% memory and reduce tab clutter.
-- [Highlight This:](https://chrome.google.com/webstore/detail/highlight-this-finds-and/fgmbnmjmbjenlhbefngfibmjkpbcljaj)
-- [Google Keep](https://chrome.google.com/webstore/detail/google-keep-chrome-extens/lpcaedmchfhocbbapmcbpinfpgnhiddi) - Save stuff.
-- [Toggle](https://toggl.com/) - ❤️ Time tracking tool.
-- [The Great Suspender](https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg/related) -  Automatically suspends unused tabs to free up system resources.
+- [Highlight This:](https://chrome.google.com/webstore/detail/highlight-this-finds-and/fgmbnmjmbjenlhbefngfibmjkpbcljaj) ❤️
 - [Multi-links](https://chrome.google.com/webstore/detail/multi-links/gflgnmgilmokfhbckilljalhemjjeldl?hl=en) - Open multiple links at once.
 - [Tabagotchi by Breather](https://chrome.google.com/webstore/detail/tabagotchi-by-breather/ojahbhfflnbaiddhnkgeccgopmedjjen?hl=en) - Get rid of unnecessary distractions and increase your productivity with Tabagotchi.
-- [My Time Zone](https://chrome.google.com/webstore/detail/my-time-zone-automatic-ti/fdmjemdmpmohggbjhmbeoipmheemmcpm) - Automatic timezone conversion for simple scheduling.
-- [Bulk URL Opener](https://chrome.google.com/webstore/detail/bulk-url-opener-extension/hgenngnjgfkdggambccohomebieocekm?hl=en) - Bulk URL Opener Extension just lets you open multiple URLs at once (in new tabs or windows). 
-- [Text Blaze](https://blaze.today/) - Speed up common typing tasks with templates. 
-- [Momentum](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca?hl=en) - Personal dashboard designed to eliminate distraction. 
-- [LinkClump](https://chrome.google.com/webstore/detail/linkclump/lfpjkncokllnfokkgpkobnkbkmelfefj?hl=en) - Lets you open, copy or bookmark multiple links at the same time.
-- [Read Later](https://chrome.google.com/webstore/category/themes?hl=en) - Store links to read later.
-- [Scroll it!](https://chrome.google.com/webstore/detail/scroll-it/nlndoolndemidhlomaokpfbicfnjeeed?hl=en) - Automatic scrolling websites.
-- [AutoScroll](https://chrome.google.com/webstore/detail/autoscroll/occjjkgifpmdgodlplnacmkejpdionan?hl=en) - Customizable autoscroll.
-- [Krisp](https://krisp.ai/) - App that mutes background noise during calls. 
-- [JumpCut](https://snark.github.io/jumpcut/) - MacOS clipboard manager that saves your clipboard history.
-- [Hypothesis](https://hypothes.is/) - Collaboratively annotate, highlight, and tag web pages and PDF documents.
-- [PyTipsTab](https://chrome.google.com/webstore/detail/pytipstab/ljdjaolmpenbokloahfaaifcpbgeojgi?hl=en) - A tool for Python lovers which shows Python tips after opening browser tab each time
+- [LinkClump](https://chrome.google.com/webstore/detail/linkclump/lfpjkncokllnfokkgpkobnkbkmelfefj?hl=en) - Lets you open, copy or bookmark multiple links at the same time. ❤️
+- [Clipstract](https://www.clipstract.com/) - A free utility to extract data from pages and puts it into your clipboard for easy pasting into spreadsheets ❤️
 
 
 
 #### 🔏 Privacy & Safety
-- [Dashlane](https://chrome.google.com/webstore/detail/fdjamakpfbbddfjaooikfcpapjohcfmg) - ❤️ Password Manager.
-- [LastPass](https://www.lastpass.com/) - Password Manager.
-- [DuckDuckGo Privacy Essentials
-](https://chrome.google.com/webstore/detail/duckduckgo-privacy-essent/bkdgflcldnnnapblkhphbgpggdiikppg) - Protect your data as you search and browse.Protect your data as you search and browse.
+- [Bitwarden](https://bitwarden.com/) - ❤️ Password Manager.
 - [uBlock Origin](https://chrome.google.com/webstore/detail/cjpalhdlnbpafiamejdnhcphjbkeiagm) - ❤️ Ad Blocker. 
-- [Privacy Badger](https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp) - ❤️ Privacy Badger automatically learns to block invisible trackers.
-- [Password-alert](https://chrome.google.com/webstore/detail/password-alert/noondiphcddnnabmjcihcjfbhfklnnep?hl=nl) - Password Alert helps protect against phishing attacks.
 - [Have I Been Pwned?](https://haveibeenpwned.com/) - Check if you have an account that has been compromised in a data breach.
-- [Watch Your Hack](https://watchyourhack.com/) - ❤️ Fantastic guide about security, this is a MUST READ. 
-- [Sticky Password](https://www.stickypassword.com/) - Password Manager. 
+
+
 
 #### 📹 Video & Images
 - [Loom - Video Recorder: Screen, Webcam and Mic](https://chrome.google.com/webstore/detail/liecbddmkiiihnedobmlmillhodjkdmb)
@@ -166,6 +139,8 @@ I'm creating this because I have so many resources in different places, and most
 - [CloudApp](https://www.getcloudapp.com/)
 - [Vidyard - Video Recorder](https://www.vidyard.com/)
 - [bubbles](https://www.usebubbles.com/)
+
+
 
 #### 📈 Marketing & Stats
 - [Similar Sites](https://chrome.google.com/webstore/detail/necpbmbhhdiplmfhmjicabdeighkndkn) - Discover Related Websites.
@@ -176,27 +151,29 @@ I'm creating this because I have so many resources in different places, and most
 - [EpicBeat](https://epicenter.epictions.com/epicbeat/explore/) - Find Trends, Content and Influencers. 
 - [Feedly](https://feedly.com/i/discover) - Organize, read and share. 
 - [Google Campaign URL Builder](https://ga-dev-tools.appspot.com/campaign-url-builder/) - Easy way to generate urls with UTM codes.  
-- [Ahrefs](https://ahrefs.com/) - 💰 Ahrefs is a toolset for SEO & marketing running on Big Data.
+- [Ahrefs](https://ahrefs.com/) - 💸 Ahrefs is a toolset for SEO & marketing running on Big Data.
 - [E-commerce resources list by Magenticians](https://magenticians.com/ecommerce-hub/) - Cool list. 
 - [Linkminer](https://app.linkminer.com/) - Backlink checker. 
-- [Logopony](https://www.logopony.com/) - 💰Create a logo. 
+- [Logopony](https://www.logopony.com/) - 💸 Create a logo. 
 - [Xtensio user persona](https://xtensio.com/user-persona/) - User Persona Template and Examples. 
 - [Lempod](https://lempod.com/) - Growth Hacking Tool to increase traction on LI posts. 
 - [Make My Persona](https://www.hubspot.com/make-my-persona) - A tool by HubSpot to make your persona. 
 
 
+
 #### 📫 Email
 - [Lemlist](https://lemlist.com/) - Conversational Email Outreach Platform. 
-- [MixMax - all in one](https://mixmax.com/) - ❤️ Enhance your emails. 
+- [MixMax - all in one](https://mixmax.com/) -  Enhance your emails. 
 - [Boomerang for Gmail](https://www.boomeranggmail.com/) - Scheduled sending and email reminders. 
-- [mailinator, free temp emailboxes](https://www.mailinator.com/) - ❤️ note: I love this tool for one time signups. 
-- [Snov.io](https://snov.io/) - 💰Find emails, verify them and run your email campaign. 
+- [mailinator, free temp emailboxes](https://www.mailinator.com/) 
+- [Snov.io](https://snov.io/) - 💸 Find emails, verify them and run your email campaign. 
 - [TestSubject](https://zurb.com/playground/testsubject) - Test how your email subject lines appear on mobile devices.
-- [Trinsly](https://trinsly.com/) - 💰 Personalized Email Automation for recruiters. 
+- [Trinsly](https://trinsly.com/) - 💸 Personalized Email Automation for recruiters. 
 - [Temp-Mail](https://temp-mail.org/en/) - Free throw-away email. 
 - [Gmelius](https://gmelius.com/) - Email Automation. 
-- [Resource](https://www.resource.io/) - 💰 All-in-one Outreach & CRM platform for recruitment teams. 
+- [Resource](https://www.resource.io/) - 💸 All-in-one Outreach & CRM platform for recruitment teams. 
 - [Mailper](https://mailper.com/) - Free disposable inboxes. 
+
 
 
 #### 📑 Grammar, Spelling & Words
@@ -218,52 +195,11 @@ I'm creating this because I have so many resources in different places, and most
 - [LinkStyle Docs Add-on](https://chrome.google.com/webstore/detail/link-style/llkdachfmajhffehofbjmkdbfjhkjkpb?hl=en-GB) - Because you can't edit the color for links by default :|
 - [Hemmingway Editor](http://www.hemingwayapp.com/) - Readability check. 
 - [Quetext](https://www.quetext.com/) - Plagiarism Checker & Citation Assistant. 
-- [UniCheck](https://unicheck.com/) - 💰 Plagiarism Check. 
+- [UniCheck](https://unicheck.com/) - 💸 Plagiarism Check. 
 - [Plagiarism Checker](https://www.plagiarismsoftware.net/) - Plagiarism Check. 
 - [SmallsSeoTools](https://smallseotools.com/plagiarism-checker/) - Grammar, Image & Plagiarism Check.
 - [Deepl Translator](https://www.deepl.com/en/translator) - AI Translation tool. 
 
-
-#### 🛫 Relocation, Travel & Research
-- [Travelscope](https://www.markuslerner.com/travelscope/) - Worldwide Visa check.
-- [Numbeo](http://www.numbeo.com/cost-of-living/) - Calculate the cost of living. 
-- [Relocate.me](http://relocate.me/) - Job board for people who want to relocate.
-- [Paysa Cost of Living US](https://www.paysa.com/cost-of-living) - Calculate the cost of living. 
-- [TheTax](https://thetax.nl/) - 30% ruling Dutch Income Tax Calculator. 
-
-#### 📅 Calendar & Meeting Tools
-- [Calendly](https://calendly.com/)
-- [Assistant.to](https://www.assistant.to/)
-- [Boomerang Calendar](http://boomerangcalendar.com/)
-- [Rally](https://rallly.co/) - Meeting voting tool. 
-- [x.ai](https://x.ai/) - 💰
-
-#### 🎨 Images
-- [Piktochart](https://piktochart.com/) - create infographics. 
-- [Canva](https://www.canva.com/) - ❤️ Create beautiful designs. 
-- [Pixlr](https://pixlr.com/editor/) - Free online photo editor. 
-- [Draw.io](https://www.draw.io/) - Flowchart & diagram maker. 
-- [SmartDraw](https://www.smartdraw.com/) - 💰Flowchart & diagram maker.
-- [Unsplash](https://unsplash.com/) - Free stock photo's
-- [Pexels](https://www.pexels.com/) - Free stock photo'.
-- [Flaticon](https://www.flaticon.com/) - Free vector icons.
-- [Prezi](https://prezi.com/) - 💰 Presentation software. 
-- [Theme Forest](https://graphicriver.net/presentation-templates) - Presentation templates. 
-- [Gravit Designer](https://designer.gravit.io/) - Online photo editor 💰.
-- [Undraw](https://undraw.co/) - free open-source illustrations. 
-- [Remove Background](https://www.remove.bg/) - Remove image background automatically. 
-- [Freepik](https://www.freepikcompany.com/) - Free images & illustrations.
-- [Simple Icons](https://simpleicons.org/) - Free SVG icons from brands. 
-- [Paste](https://pasteapp.com/) - Create easy and good looking slide decks. 
-- [Colors by Adobe](https://color.adobe.com/create) - Handy color tool by adobe. 
-- [Doodle Ipsum](https://doodleipsum.com/) - The lorem ipsum of illustrations
-
-
-#### 🆒 Other
-- [Google When?](https://chrome.google.com/webstore/detail/google-when/dgafcidlgmbcehokgdeghmfnbpbfhihh)
-- [Product Hunt](https://chrome.google.com/webstore/detail/product-hunt/likjafohlgffamccflcidmedfongmkee)
-- [Sheet2site](https://www.sheet2site.com/)
-- [List with Slack communities (tech)](https://hundred5.com/blog/sourcing-from-slack)
 
 
 ## 🛠️ Recruitment Tools (Extensions & Websites)
@@ -281,14 +217,17 @@ I'm creating this because I have so many resources in different places, and most
 - [Search the current site](https://chrome.google.com/webstore/detail/jliolpcnkmolaaecncdfeofombdekjcp)
 - [Search Preview](https://chrome.google.com/webstore/detail/majhgbekihmliceijipbdccgicepmmei)
 - [SourceHub](https://chrome.google.com/webstore/detail/enaamgjepainkdajgmnhbjeafocplknl)
-- [HIRETUAL](https://chrome.google.com/webstore/detail/jeablngoapekimaeoeclgcefdcpjhjcg)
+- [HireEZ](https://chrome.google.com/webstore/detail/jeablngoapekimaeoeclgcefdcpjhjcg) ❤️ 💸
 - [Storyful Multisearch](https://chrome.google.com/webstore/detail/hkglibabhninbjmaccpajiakojeacnaf)
 - [Onstrat OSINT](http://onstrat.com/osint/) - by Randolph Hock, Ph.D. 
 - [ZAPinfo](https://www.zapinfo.io/)
-- [SeekOut](https://seekout.io/) - 💰 Sourcing Tool. 
+- [SeekOut](https://seekout.io/) - 💸 Sourcing Tool. 
 - [BooleanStrings Bank](https://scoperac.com/booleanstringbank/) - String directory for Sourcers. 
 - [Search All](https://chrome.google.com/webstore/detail/search-all/kpdkbemdpepjjppbfgeapjienologapa) - The easiest way to access different search engines.
 - [Balazs Boolean Builder](https://bit.ly/balazs_boolean) - Fantastic Boolean String builder by Balazs Paroczay for the Free version of LinkedIN, read more about it [here](https://www.sourcecon.com/new-and-free-boolean-builder-if-you-dont-have-lir/). 
+- [Overcoming LinkedIn's Boolean Limits](https://docs.google.com/spreadsheets/d/1TcUz94xX_rDsACNP1N3DBWPJvQjB4JHhsjUm1y6KCGo/edit?usp=sharing) - Thanks Irina
+- [Sourcing Masterclass Candidate Lookup](https://docs.google.com/spreadsheets/d/1STqb73kiHTJb1ey7T04oRuliv3wFadTTosJ33-G-esA/edit?usp=sharing) - Thanks Balazs Paroczay
+
 
 
 #### :phone: Contact info
@@ -298,24 +237,24 @@ I'm creating this because I have so many resources in different places, and most
 - [360social](https://chrome.google.com/webstore/detail/bplilbogidkdmacifmkmciboihbcchom)
 - [Discoverly](https://chrome.google.com/webstore/detail/dijhcpbkalfgkcebgoncjmfpbamihgaf)
 - [Prophet](https://chrome.google.com/webstore/detail/alikckkmddkoooodkchoheabgakpopmg)
-- [Snovio](https://snov.io/) - 💰
+- [Snovio](https://snov.io/) - 💸
 - [Nymeria](https://www.nymeria.io/) 
-- [Connectifier](https://business.linkedin.com/talent-solutions/recruiter/connectifier) - 💰
+- [Connectifier](https://business.linkedin.com/talent-solutions/recruiter/connectifier) - 💸
 - [LinkedIn Sales email to profile tool](https://www.linkedin.com/sales/gmail/profile/viewByEmail/PUTEMAILHERE) - replace the last part of the url with any email to see if there is a LinkedIn profile connected to it.
 - [SalesQL](https://salesql.com/) 
 - [Swordfish](https://swordfishapp.com) 
 - [Kendo](https://kendoemailapp.com/)
 
-#### :squirrel: Scraping
+#### Scraping
  - [Data Scraper](https://chrome.google.com/webstore/detail/nndknepjnldbdbepjfgmncbggmopgden) - Easy Web Scraping.
  - [Instant Data Scraper](https://chrome.google.com/webstore/detail/ofaokhiedipichpaobibbnahnkdoiiah)
  - [Recipe Creator](https://chrome.google.com/webstore/detail/icadidhenmiokjlmpdgjikdoknhfgkhg)
- - [Phantombuster](https://phantombuster.com/) - 💰
+ - [Phantombuster](https://phantombuster.com/) - 💸
  - [Public-APIs list ](https://github.com/toddmotto/public-apis)
  - [Postman Interceptor](https://chrome.google.com/webstore/detail/postman-interceptor/aicmkgpgakddgnaphhhpliifpcfhicfo?hl=en)
  - [Scrapy](https://scrapy.org/)
 
-#### :octocat: Github Tools
+#### Github Tools
  - [Refined GitHub](https://chrome.google.com/webstore/detail/hlepfoohegkhhmjieoechaddaejaokhf)
  - [OctoHR](https://chrome.google.com/webstore/detail/beiklbdjdmfkgchmiabjejdlpaoicbef)
  - [GitHub Hovercard](https://chrome.google.com/webstore/detail/mmoahbbnojgkclgceahhakhnccimnplk)
@@ -324,19 +263,19 @@ I'm creating this because I have so many resources in different places, and most
  - [Profiled for GitHub](https://chrome.google.com/webstore/detail/profiled-for-github/gliklioolkfpkcgjfkobfgcgolliahll) - Find a GitHub user's social profiles.
  - [GitAwards](http://git-awards.com/) - Github User Ranking Search Tool.
  - [Git:Logs](https://www.gitlogs.com/) - Discover the Top Trending Repos. 
- - [developerDB](developerDB) - 💰 Search Tool. 
+ - [developerDB](developerDB) - 💸 Search Tool. 
  - [Profile Summary for GittHub profiles](https://profile-summary-for-github.com/search)
  - [Showing hidden mail and status](https://chrome.google.com/webstore/detail/emailongithub/jjmphadcgcmpdnombcomlmmbmojccmcf)
 
 #### 🙋 Job Description Tools
- - [Textio](https://textio.com/) 💰
+ - [Textio](https://textio.com/) 💸
  - [Gender Decoder for Job Ads
 ](http://gender-decoder.katmatfield.com/)
 - [Joblint](http://joblint.org/)
 - [Jobpage Grader](https://jobpagegrader.com/)
 - [Enlighten Jobs](https://www.enlightenjobs.com/job-titles.php) - Job title search.
 - [BeApplied](https://textanalysis.beapplied.com) - Job Description Text analysis. 
-- [TapRecruit](https://taprecruit.co/) - 💰 Smart Job Description Editor. 
+- [TapRecruit](https://taprecruit.co/) - 💸 Smart Job Description Editor. 
 - [Adaface Job Description Generator](https://www.adaface.com/job-description-generator) - Free templates to easily create, edit, publish and share job descriptions for popular roles in tech.
 - [Inclusiveness Check](https://inclusiveness-check.herokuapp.com/) - Analyse your job description for inclusive language and fixed vs growth mindset language 
 
@@ -346,12 +285,13 @@ I'm creating this because I have so many resources in different places, and most
 - [Candidate background checking guidelines](https://zinc.work/blog/post/background-checking-global-teams)
 - [Global reference checking guidelines](https://zinc.work/blog/post/complete-guide-to-reference-checks)
 
-#### Interviewing
-- [Interview Question Generator](https://www.interviewquestiongenerator.com)
-- [Interview Cake](https://www.interviewcake.com/) - Programming Interview Course for developers. 
-- [Workable Interview Questions Templates](https://resources.workable.com/interview-questions/) 
-- [Awesome Interviews](https://github.com/MaximAbramchuck/awesome-interview-questions) - Repo with interview guides for devs.
-- [Open source your interview process](https://github.com/zincwork/Open_Source_Your_Interview_Process) 
+
+
+#### Layoff
+- [layoffs.fyi](https://layoffs.fyi/)
+- [Layoff Forum](https://www.thelayoff.com/)
+
+
 
 #### Other stuff
  - [Indeed Job Trends](https://www.indeed.com/jobtrends/category-trends)
@@ -369,74 +309,10 @@ I'm creating this because I have so many resources in different places, and most
  - [Progression.fyi](https://www.progression.fyi/) - Open Source Career level frameworks. 
 
 
-## 🔎 Search Engines
-
-- [Google](https://www.google.com/)
-  - [Google Patents](https://patents.google.com/)
-  - [Google Trends](https://trends.google.com/trends/)
-  - [Google Image Search](https://images.google.com/)
-   - [Google Advanced Search Operators Guide (https://docs.google.com/document/u/2/d/1ydVaJJeL1EYbWtlfj9TPfBTE5IBADkQfZrQaBZxqXGs/edit)
-- [DuckDuckGo](https://duckduckgo.com/)
-- [Bing](https://www.bing.com/)
-- [Search Engine Colossus ](http://searchenginecolossus.com/) - International directory of search engines.
-- [Wayback Machine](http://archive.org/web/)
-- [List of Custom Search Engines](https://docs.google.com/spreadsheets/u/1/d/13Uja8lFYDbZVQ0uVNDAnbxsiXFaLZpCdwFLBnHuakNE/htmlview?) _- *please let me know if you know who created this I want to give you the credits for this._
-- [Interpol Wanted People](http://www.interpol.int/notice/search/wanted) - I have no idea why you should use this as a recruiter.
-- [World Bank Open Data](https://data.worldbank.org/) - Free and open access to global development data.
-- [Open Corporates](https://opencorporates.com/) - The largest open database of companies in the world.
-- [I Search From](http://isearchfrom.com/?fbclid=IwAR1J6lFK8qJDl4b-_2sx0uLgthXmLvt_BfEAXoaBtRySvkwMlZFCeLPEE4Y) - Google Search from a different location & device.
-- [Bing vs Google](http://bvsg.org/) - Compare search results. 
-- [40 Custom Search Engines, by Irina Shamaeva](https://booleanstrings.com/all-the-40-forty-custom-search-engines/)
 
 
-##### Academic Search Engines
-- [Microsoft Academic](https://academic.microsoft.com/#/search?iq=Y%3D2008&q=2008&filters=&from=0&sort=0)
-- [Google Scholar](https://scholar.google.com)
-- [Semantic Scholar](https://www.semanticscholar.org/)
-- [Research Gate](https://www.researchgate.net/)
-- [Google Dataset Search](https://toolbox.google.com/datasetsearch)
-
-##### Facebook Search
-- [Facebook Graph Search * _By Henk van Ess_](http://graph.tips/beta/)
-- [StalkFace](https://stalkface.com/en/)
-- [WhoPostedWhat](https://whopostedwhat.com/) - by Henk van Ess. 
-
-##### Instagram Search 
-- [ISDB.PW](https://isdb.pw/) - Username search for saved stories.
-- [Webstagram](http://web.stagram.com/) - Search for tags & users.
-- [Searchmybio](https://www.searchmy.bio) - Search Instagram user bios. 
-- [GramUser](https://gramuser.com) - Instagram username search. 
-- [High Resolution Instragram Downloader](https://chrome.google.com/webstore/detail/high-resolution-downloade/hbijmiokbffalbolieapplfhmmnioeao) - Download high res. instragram pictures. 
-- [Mulpix](https://mulpix.com/) - Search for specific text in posts. 
-- [Stalkture](https://stalkture.com/a/jamesrodriguez10/188222091) - Instragram Statistics for users. 
-- [Picdeer](http://picdeer.org/search) - Find instagram users based on names. 
-- [HypeAuditor](https://hypeauditor.com/) - Analyze Instagram and YouTube users. 
-
-- Big shout out to [Henk van Ess](https://twitter.com/henkvaness) for sharing most these Instagram tools on Twitter. 
-
-
-##### Twitter Search 
-- [#onemilliontweetmap](onemilliontweetmap.com) - Maps tweets per location.
-- [quarter tweets](http://qtrtweets.com/twitter/) - Twitter location based search.
-- [Twlets Chrome Extention](https://chrome.google.com/webstore/detail/twlets-twitter-to-excel/glmadnnfibhnhgboophnodnhbjdogiec) - Get anyone's tweets, followers, likes, videos, and more into Excel 💰
-- [TwiNL](https://twinl.surfsara.nl) - Search in tweets.
-- [TwiMap](https://twimap.com/) - Search for tweets in a certain location.
-- [Followerwonk](https://followerwonk.com/)
-
-##### Keyword Search 
-- [Answer The Public](https://answerthepublic.com/)
-- [Keyword finder](https://app.kwfinder.com/)
-- [Keyword shitter](https://keywordshitter.com/) 
-
-##### Other Social Media Search 
-- [Snapchat live Map](https://map.snapchat.com/) - Snapchat Live Stories Map.
-- [Youtube Geo Search Tool](https://youtube.github.io/geo-search-tool/search.html)
-- [Social Searcher](https://www.social-searcher.com) - Free Social Media Search Engine. 
-
-
-WORK IN PROGRESS
+TBC
 
 ***
 
-_Using any of these resources is at your own risk. Most are not mine, and if they were I wouldn't tell you. I am not responsible for your safety /
-compliancy / relationship / dogs & cats or anything else you like to bitch about. Unless you hire some great people after you found this list, in that case you need to buy me pretty stuff. OKTHXBYE xoxo_
+Thanks @Sjamilla for the reference for this page
