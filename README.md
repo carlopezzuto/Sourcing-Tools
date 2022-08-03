@@ -2,7 +2,7 @@
 
 Hi everyone, I am [Carlo](https://www.linkedin.com/in/carlopezzuto/) 👋, 
 
-I am a Talent Sourcer from the ![Image](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/sony/336/flag-italy_1f1ee-1f1f9.png).
+I am a Talent Sourcer from ![Image](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/sony/336/flag-italy_1f1ee-1f1f9.png).
 
 I'm creating this because I have so many resources in different places, and most of the time I forgot where to look. But I thought why not make it public and open source 😁.
 
