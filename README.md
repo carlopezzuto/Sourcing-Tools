@@ -15,13 +15,13 @@ I'm creating this because I have so many resources in different places, and most
 
 💸 = Paid or Freemium.
 
-❤️ = apps that I like. 
+❤️ = Favorite. 
 
 ### Overview 
-- [Blogs](https://github.com/carlopezzuto/Sourcing-Tools#%EF%B8%8F-blogs)
-- [Facebook Groups](https://github.com/carlopezzuto/Sourcing-Tools#%EF%B8%8F-facebook-groups)
-- [Video](https://github.com/carlopezzuto/Sourcing-Tools#%EF%B8%8F-video)
-- [Books](https://github.com/carlopezzuto/Sourcing-Tools#%EF%B8%8F-books)
+- [Blogs](https://github.com/carlopezzuto/Sourcing-Tools#-blogs)
+- [Facebook Groups](https://github.com/carlopezzuto/Sourcing-Tools#-facebook-groups)
+- [Video](https://github.com/carlopezzuto/Sourcing-Tools#-video)
+- [Books](https://github.com/carlopezzuto/Sourcing-Tools#-books)
 - [Lists](https://github.com/carlopezzuto/Sourcing-Tools#%EF%B8%8F-cool-lists-created-by-cool-people)
 - [Extensions & Tools General](https://github.com/carlopezzuto/Sourcing-Tools#%EF%B8%8F-tools-not-recruitment-specific)
 - [Extensions & Tools Recruitment](https://github.com/carlopezzuto/Sourcing-Tools#%EF%B8%8F-recruitment-tools-extensions--websites)
