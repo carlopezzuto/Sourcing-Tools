@@ -35,7 +35,7 @@ I'm creating this because I have so many resources in different places, and most
 - [AmazingHiring Blog](https://amazinghiring.com/blog/)
 - [Beamery Blog](https://blog.beamery.com/)
 - [Recruiting Brainfood](http://www.recruitingbrainfood.com/) - Weekly newsletter by Hung Lee. 
-- [Balazs Paroczay](https://thebalazs.com/)
+- [Balazs Paroczay](https://thesourcecode.academy/blog/)
 - [BooleanStrings by Irina Shamaeva](http://booleanstrings.com/)
 - [Boolean Black Belt-Sourcing/Recruiting](http://booleanblackbelt.com/)
 - [Recruiting Tools](https://recruitingtools.com/)
