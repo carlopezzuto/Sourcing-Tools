@@ -210,9 +210,6 @@ I'm creating this because I have so many resources in different places, and most
 - [Free People Search tool](https://freepeoplesearchtool.com/) - Search candidates on LinkedIn, Twitter, GitHub and Dribble.
 - [Pulsedive Osint Lookup](https://chrome.google.com/webstore/detail/pulsedive-osint-lookup/gdbemlfgncdmmljmkkcemfedbbfgghcp)
 	- [website](https://pulsedive.com/)
-- [Intelligence Search
-](https://chrome.google.com/webstore/detail/intelligence-search/dipfggodcibdmflidbceoaanadclgomm)
-  - [website](http://www.intel-sw.com/)
 - [People Search](https://chrome.google.com/webstore/detail/people-search-email-and-r/fomgcolbgdjbmnabgijnbmmmoimhlidi)
 - [Search the current site](https://chrome.google.com/webstore/detail/jliolpcnkmolaaecncdfeofombdekjcp)
 - [Search Preview](https://chrome.google.com/webstore/detail/majhgbekihmliceijipbdccgicepmmei)
@@ -240,7 +237,6 @@ I'm creating this because I have so many resources in different places, and most
 - [Snovio](https://snov.io/) - 💸
 - [Nymeria](https://www.nymeria.io/) 
 - [Connectifier](https://business.linkedin.com/talent-solutions/recruiter/connectifier) - 💸
-- [LinkedIn Sales email to profile tool](https://www.linkedin.com/sales/gmail/profile/viewByEmail/PUTEMAILHERE) - replace the last part of the url with any email to see if there is a LinkedIn profile connected to it.
 - [SalesQL](https://salesql.com/) 
 - [Swordfish](https://swordfishapp.com) 
 - [Kendo](https://kendoemailapp.com/)
