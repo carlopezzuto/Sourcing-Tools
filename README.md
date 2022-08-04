@@ -80,7 +80,6 @@ I'm creating this because I have so many resources in different places, and most
 
 ## 📖 Books
 - [Full Stack Recruiter - Jan Tegze](https://www.amazon.com/Full-Stack-Recruiter-Modern-Recruiters/dp/1976130735)
-- [Full Stack Recruiter: New Secrets Revealed - Jan Tegze](https://www.amazon.com/Full-Stack-Recruiter-Secrets-Revealed/dp/8027048184)
 - [300 Best Boolean Strings - Irina Shamaeva](https://booleanbook.com/)
 - [Sourcing Hacks - Irina Shamaeva & David Galley](https://sourcingcertification.com/sourcinghacksbook/) 
 - [Social Engineering: The Art of Human Hacking](https://www.amazon.com/Social-Engineering-Art-Human-Hacking/dp/0470639539)
