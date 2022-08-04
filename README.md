@@ -34,7 +34,6 @@ I'm creating this because I have so many resources in different places, and most
 - [SocialTalent Blog](https://www.socialtalent.com/blog)
 - [AmazingHiring Blog](https://amazinghiring.com/blog/)
 - [Beamery Blog](https://blog.beamery.com/)
-- [Tris Revill](https://trisrevill.com/)
 - [Recruiting Brainfood](http://www.recruitingbrainfood.com/) - Weekly newsletter by Hung Lee. 
 - [Balazs Paroczay](https://thebalazs.com/)
 - [BooleanStrings by Irina Shamaeva](http://booleanstrings.com/)
